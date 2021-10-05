@@ -5,7 +5,7 @@
   "description": "Ecommerce website",
   "main": "index.js",
   "scripts": {
-    "build": "npm install && npm run build",
+    "build": "npm run build",
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
